@@ -21,9 +21,10 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
+#### :pencil2:  log
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/></a>
+</p>
